@@ -63,8 +63,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:A K PREETHI
+### Register Number:23013312
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
